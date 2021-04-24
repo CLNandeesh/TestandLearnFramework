@@ -1,0 +1,17 @@
+2021-04-24 19:19:01,721 [main] INFO Test and Learn Logs - VALIDATE LOGIN FUNCTIONALITY STARTED EXECUTION
+2021-04-24 19:19:11,787 [main] INFO Test and Learn Logs - user name entered
+2021-04-24 19:19:11,995 [main] INFO Test and Learn Logs - password entered
+2021-04-24 19:19:12,130 [main] INFO Test and Learn Logs - sigin button clicked
+2021-04-24 19:19:14,207 [main] INFO Test and Learn Logs - moved to dashboard
+2021-04-24 19:19:15,180 [main] INFO Test and Learn Logs - VALIDATE LOGIN FUNCTIONALITY FINISHED EXECUTION
+2021-04-24 19:19:15,180 [main] INFO Test and Learn Logs - VALIDATE LOGIN FUNCTIONALITY STATUS IS PASSED
+2021-04-24 19:19:15,998 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-24 19:19:16,000 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-24 19:19:16,001 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-24 19:19:16,002 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-24 19:19:16,002 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/nandeesh.cl/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-04-24 19:19:16,518 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-04-24 19:19:16,518 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-04-24 19:19:16,518 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-04-24 19:19:16,519 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-04-24 19:19:16,540 [main] DEBUG freemarker.cache - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/nandeesh.cl/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
